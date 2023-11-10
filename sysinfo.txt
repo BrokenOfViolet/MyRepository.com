@@ -2,3 +2,4 @@
 USER     TTY      FROM              LOGIN@  IDLE WHAT
 mac      console  -                三00   1day  -
 mac      s001     -                22:12       - w
+Thanks so much.
